@@ -16,3 +16,7 @@ h2{
     font-size: medium;
     color: #000fff;
 }
+body{
+    font-style: italic;
+    background-color: red;
+}
