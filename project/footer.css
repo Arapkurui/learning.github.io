@@ -7,3 +7,13 @@ text-align: center;
 background-color: whitesmoke;
 color: black;
 }
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: azure;
+    font-variant: small-caps;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: #000fff;
+}
